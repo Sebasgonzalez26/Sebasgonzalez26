@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sebastian 👋
 
-<!--
-**Sebasgonzalez26/Sebasgonzalez26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Advanced Software Engineering Student focused on backend and cloud development.
 
-Here are some ideas to get you started:
+## 🚀 Technologies
+- C#
+- ASP.NET Core
+- SQL Server
+- Azure
+- REST APIs
+- JWT Authentication
+- Git & GitHub
+- FlutterFlow
+- Java
+- Python
+- React
+- SQL Databases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- UniPlan System
+- Bakery Management System
+- Security API with JWT
+- FlutterFlow Mobile Application
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/
+- GitHub: https://github.com/Sebasgonzalez26
