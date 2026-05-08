@@ -24,5 +24,5 @@ Advanced Software Engineering Student focused on backend and cloud development.
 - FlutterFlow Mobile Application
 
 ## 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/
+- LinkedIn: www.linkedin.com/in/sebastián-josué-gonzález-68a97b297
 - GitHub: https://github.com/Sebasgonzalez26
