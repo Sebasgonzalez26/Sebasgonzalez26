@@ -20,6 +20,7 @@ Advanced Software Engineering Student focused on backend and cloud development.
 - UniPlan System
 - Bakery Management System
 - Security API with JWT
+- AFN Solutions Web Page
 - FlutterFlow Mobile Application
 
 ## 📫 Connect with me
